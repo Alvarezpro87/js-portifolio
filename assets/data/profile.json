@@ -73,18 +73,13 @@
     {
       "name": "Estagiário em Desenvolvimento",
       "period": "2024 - até o momento",
-      "description": "Desenvolvi habilidades práticas em diversas áreas. Trabalhei com contêineres, utilizando Docker e Docker Compose para criar e gerenciar ambientes 
-      eficientes e escaláveis. Na nuvem, fui responsável por criar e administrar máquinas virtuais na GovCloud, otimizando redes e implementando medidas de segurança. 
-      Meu conhecimento em Java e Spring Boot me permitiu contribuir para o desenvolvimento de aplicações backend robustas. Além disso, administrei servidores web, 
-      garantindo alta disponibilidade para aplicações online. 
-      Por fim, tive experiência prática com PostgreSQL, realizando tarefas de manutenção e otimização de bancos de dados."
+      "description": "Desenvolvi habilidades práticas em diversas áreas. Trabalhei com contêineres, utilizando Docker e Docker Compose para criar e gerenciar ambientes eficientes e escaláveis. Na nuvem, fui responsável por criar e administrar máquinas virtuais na GovCloud, otimizando redes e implementando medidas de segurança. Meu conhecimento em Java e Spring Boot me permitiu contribuir para o desenvolvimento de aplicações backend robustas. Além disso, administrei servidores web, garantindo alta disponibilidade para aplicações online. Por fim, tive experiência prática com PostgreSQL, realizando tarefas de manutenção e otimização de bancos de dados."
     },
     {
       "name": "Técnico de Infraestrutura",
       "period": "2020 - até o momento",
-      "description": "Como Técnico de Infraestrutura Corregedoria na Polícia Militar do Distrito Federal, sou responsável pela administração de hardware e software corporativos, 
-      incluindo o gerenciamento do Active Directory e o suporte aos usuários, tanto presencial quanto remotamente. Além disso, atuo no monitoramento de sistemas com o Zabbix e 
-      presto suporte na implantação de telefonia VOIP."
+      "description": "Como Técnico de Infraestrutura Corregedoria na Polícia Militar do Distrito Federal, sou responsável pela administração de hardware e software corporativos, incluindo o gerenciamento do Active Directory e o suporte aos usuários, tanto presencial quanto remotamente. Além disso, atuo no monitoramento de sistemas com o Zabbix e presto suporte na implantação de telefonia VOIP."
+
     }
     
   ]
