@@ -54,7 +54,7 @@
   },
   "languages": [
     "Português BR (Nativo)" ,
-    "Inglês (avançado)",   
+    "Inglês (avançado)"   
     
   ],
   "portfolio": [
@@ -85,7 +85,7 @@
       "description": "Como Técnico de Infraestrutura Corregedoria na Polícia Militar do Distrito Federal, sou responsável pela administração de hardware e software corporativos, 
       incluindo o gerenciamento do Active Directory e o suporte aos usuários, tanto presencial quanto remotamente. Além disso, atuo no monitoramento de sistemas com o Zabbix e 
       presto suporte na implantação de telefonia VOIP."
-    },
+    }
     
   ]
 }
