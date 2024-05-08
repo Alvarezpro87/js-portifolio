@@ -30,22 +30,22 @@
 <body>
     <main class="main">
         <header class="header">
-            <img src="/assets/img/perfil.jpg" alt="Foto do Alexandre" class="photo" id="profile.photo">
+            <img src="/assets/img/perfil.jpg" alt="Foto de Perfil" class="photo" id="profile.photo">
     
             <h1 class="title">
-                Bem vindo, <br>Eu sou Alexandre A Cardoso
+                Bem vindo, <br> Eu sou <span class="profile.name"> Alexandre Cardoso </span>
             </h1>
     
             <div class="information">
-                <p class="job">Junior Developer</p>
-                <p class="location">Brasília - DF - Brazil</p>
+                <p class="job" id="profile.job">Desenvolvedor Java Júnior</p>
+                <p class="location" id="profile.location">Brasília - DF</p>
                 <p class="phone">
-                    <a href="tel:(61) 9 98299-2727" id="profile.phone"></a>
+                    <a href="tel:(61) 9 8299-2727" id="profile.phone">(61) 9 8299-2727</a>
                 </p>
                 <p class="email">
-                    <a href="alvarezpro87@gmail.com" id="profile.email">alvarezpro87@gmail.com</a>
+                    <a href="mailto:ex@mail.com" id="profile.email">alvarezpro87@gmail.com</a>
                 </p>
-            </div> 
+            </div>
        
         </header>  
         <section class="acordeon">
@@ -58,30 +58,17 @@
                     <section class="tools">
                         <h3>Habilidades profissionais:</h3>
                         <ul id="profile.skills.hardSkills">
-                            <li>
-                                <img src="assets/img/tools/azure.svg" alt="">
-                            </li>
-                            <li>
-                                <img src="assets/img/tools/java.svg" alt="">
-                            </li>
-                            <li>
-                                <img src="assets/img/tools/postgresql.svg" alt="">
-                            </li>
-                            <li>
-                                <img src="assets/img/tools/windows.svg" alt="">
-                            </li>
                         </ul>
                     </section>
 
                     <section class="personal">
                         <h3>Habilidades Pessoais: </h3>
                         <ul id="profile.skills.softSkills">
-                            <li>Comunicação</li>
-                            <li>Trabalho em equipe</li>
+                            <li>Empatia</li>
                             <li>Resiliente</li>
-                            <li>Facilidade de aprendizado</li>
-                            <li>Comprometimento com resultados</li>
+                            <li>Trabalho em equipe</li>
                             <li>Aprendizado Contínuo</li>
+                            <li>Comprometimento com resultados</li>
                         </ul>
                     </section>
                 </div>
@@ -95,8 +82,8 @@
 
             <div class="content">
                 <ul class="languages" id="profile.languages">
-                    <li>Português</li>
-                    <li>Inglês</li>
+                    <li>Português BR (Nativo)</li>
+                    <li>Inglês (avançado)</li>
                 </ul>
             </div>
         </section>
@@ -109,16 +96,12 @@
             <div class="content">
                 <ul class="portfolio" id="profile.portfolio">
                     <li>
-                        <span class="title">Criando um App de lembrete</span>
-                        <a href="www.google.com" target="_blank">www.google.com</a>
+                        <span class="title">Java Backend</span>
+                        <a href="https://github.com/Alvarezpro87/Santander-Bootcamp2024.git" target="_blank">Santander Bootcamp 2024</a>
                     </li>
                     <li>
-                        <span class="title">Criando um App de lembrete</span>
-                        <a href="www.google.com" target="_blank">www.google.com</a>
-                    </li>
-                    <li>
-                        <span class="title">Criando um App de lembrete</span>
-                        <a href="www.google.com" target="_blank">www.google.com</a>
+                        <span class="title">API REST desenvolvida para gerenciar contribuições de contribuintes</span>
+                        <a href="https://github.com/Alvarezpro87/Gestao-Contribuicao.git" target="_blank">Gestao Contribuicao</a>
                     </li>
                 </ul>
             </div>
@@ -131,15 +114,36 @@
 
             <div class="content">
                 <ul class="experience" id="profile.professionalExperience">
+                    <li>
+                        <span class="title"> Estagiário em Desenvolvimento - Dataprev</span>
+                        <span class="period">Jan 2024 - Até o momento</span>
+                        <p>
+                            Desenvolvi habilidades práticas em diversas áreas. Trabalhei com contêineres, utilizando Docker e Docker Compose para criar e gerenciar ambientes 
+      eficientes e escaláveis. Na nuvem, fui responsável por criar e administrar máquinas virtuais na GovCloud, otimizando redes e implementando medidas de segurança. 
+      Meu conhecimento em Java e Spring Boot me permitiu contribuir para o desenvolvimento de aplicações backend robustas. Além disso, administrei servidores web, 
+      garantindo alta disponibilidade para aplicações online. Por fim, tive experiência prática com PostgreSQL, realizando tarefas de manutenção e otimização de bancos de dados.
+
+                        </p>
+                        
+                    </li>
+
+                    <li>
+                        <span class="title">Técnico de Infraestrutura - PMDF</span>
+                        <span class="period">Jan 2022 - Até o momento</span>
+                        <p>
+                            Como Técnico de Infraestrutura Corregedoria na Polícia Militar do Distrito Federal, sou responsável pela administração de hardware e software corporativos, 
+      incluindo o gerenciamento do Active Directory e o suporte aos usuários, tanto presencial quanto remotamente. Além disso, atuo no monitoramento de sistemas com o Zabbix e 
+      presto suporte na implantação de telefonia VOIP.
+
+                        </p>
+                        
+                    </li>
+                    
                 </ul>
             </div>
         </section>
 
-        <footer>
-            <a href="https://www.dio.me/" target="_blank">
-                <img src="assets/img/dio.svg" alt="DIO">
-            </a>
-        </footer>
+        
     </main>
 
     <script src="assets/js/acordeon.js"></script>
