@@ -1,0 +1,87 @@
+{
+  "name": "Alexandre Alvarez",
+  "photo": "https://avatars.githubusercontent.com/Alvarezpro87",
+  "job": "Junior developer",
+  "location": "Brasília - DF",
+  "phone": "(61) 9 8299-2727",
+  "email": "alvarezpro87@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/img/tools/java.svg"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Windows",
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/img/tools/windows.svg"
+      },
+      {
+        "name": "Azure",
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/img/tools/azure.svg"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/img/tools/postgresql.svg"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliente",
+      "Trabalho em equipe",
+      "Aprendizado Contínuo",
+      "Comprometimento com resultados"
+    ]
+  },
+  "languages": [
+    "Português BR (Nativo)" ,
+    "Inglês (avançado)",   
+    
+  ],
+  "portfolio": [
+    {
+      "name": "Santander Bootcamp 2024",
+      "url": "https://github.com/Alvarezpro87/Santander-Bootcamp2024.git",
+      "github": true
+    },
+    {
+      "name": "Gestao Contribuicao - API REST desenvolvida para gerenciar contribuições de contribuintes",
+      "url": "https://github.com/Alvarezpro87/Gestao-Contribuicao.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Estagiário em Desenvolvimento",
+      "period": "2024 - até o momento",
+      "description": "Desenvolvi habilidades práticas em diversas áreas. Trabalhei com contêineres, utilizando Docker e Docker Compose para criar e gerenciar ambientes 
+      eficientes e escaláveis. Na nuvem, fui responsável por criar e administrar máquinas virtuais na GovCloud, otimizando redes e implementando medidas de segurança. 
+      Meu conhecimento em Java e Spring Boot me permitiu contribuir para o desenvolvimento de aplicações backend robustas. Além disso, administrei servidores web, 
+      garantindo alta disponibilidade para aplicações online. 
+      Por fim, tive experiência prática com PostgreSQL, realizando tarefas de manutenção e otimização de bancos de dados."
+    },
+    {
+      "name": "Técnico de Infraestrutura",
+      "period": "2020 - até o momento",
+      "description": "Como Técnico de Infraestrutura Corregedoria na Polícia Militar do Distrito Federal, sou responsável pela administração de hardware e software corporativos, 
+      incluindo o gerenciamento do Active Directory e o suporte aos usuários, tanto presencial quanto remotamente. Além disso, atuo no monitoramento de sistemas com o Zabbix e 
+      presto suporte na implantação de telefonia VOIP."
+    },
+    {
+      "name": "Assistente Administrativo",
+      "period": "2016 - 2021",
+      "description": "Minhas responsabilidades abrangem diversas áreas. Sou encarregado do envio e recebimento de correspondências e 
+      documentos, além de controlar o fluxo de caixa, incluindo contas a pagar e a receber, e a emissão de notas fiscais. 
+      Também sou responsável por gerenciar toda a logística da empresa e cuidar da documentação, cadastros e arquivos, mantendo-os organizados e atualizados. 
+      Além disso, presto assessoria ao alto escalão empresarial em questões burocráticas, como preparação de documentos e verificação de e-mails, garantindo um ambiente de trabalho 
+      eficiente e organizado."
+    }
+  ]
+}
