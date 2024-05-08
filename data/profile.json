@@ -9,39 +9,39 @@
     "hardSkills": [
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/data/imgs/java.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/data/imgs/javascript.png"
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/data/imgs/javascript.png"
       },
       {
         "name": "SpingBoot",
-        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/data/imgs/spring%20boot%20logo.png"
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/data/imgs/spring%20boot%20logo.png"
       },
       {
         "name": "Linux",
-        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/data/imgs/linux.png"
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/data/imgs/linux.png"
       },
             {
         "name": "Azure",
-        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/data/imgs/azure.png"
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/data/imgs/azure.png"
       },
       {
         "name": "Docker",
-        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/data/imgs/docker.png"
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/data/imgs/docker.png"
       },
       {
         "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/data/imgs/mysql.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://github.com/Alvarezpro87/js-portifolio/blob/main/assets/data/imgs/postgresql.png"
+        "logo": "https://github.com/Alvarezpro87/js-portifolio/blob/main/data/imgs/postgresql.png"
       },
       {
         "name": "Github",
-        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/assets/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/Alvarezpro87/js-portifolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
