@@ -1,7 +1,7 @@
 {
   "name": "Alexandre Alvarez",
   "photo": "https://avatars.githubusercontent.com/Alvarezpro87",
-  "job": "Junior developer",
+  "job": "Desenvolvedor Java Júnior",
   "location": "Brasília - DF",
   "phone": "(61) 9 8299-2727",
   "email": "alvarezpro87@gmail.com",
@@ -64,8 +64,8 @@
       "github": true
     },
     {
-      "name": "Santander Bootcamp 2024",
-      "url": "https://github.com/Alvarezpro87/Santander-Bootcamp2024.git",
+      "name": "Pokedex",
+      "url": "https://github.com/Alvarezpro87/pokedex.git",
       "github": true
     },
     {
@@ -76,7 +76,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Estagiário em Desenvolvimento",
+      "name": "Desenvolverodr Java Júnior",
       "period": "2024 - até o momento",
       "description": "Desenvolvi habilidades práticas em diversas áreas. Trabalhei com contêineres, utilizando Docker e Docker Compose para criar e gerenciar ambientes eficientes e escaláveis. Na nuvem, fui responsável por criar e administrar máquinas virtuais na GovCloud, otimizando redes e implementando medidas de segurança. Meu conhecimento em Java e Spring Boot me permitiu contribuir para o desenvolvimento de aplicações backend robustas. Além disso, administrei servidores web, garantindo alta disponibilidade para aplicações online. Por fim, tive experiência prática com PostgreSQL, realizando tarefas de manutenção e otimização de bancos de dados."
     },
