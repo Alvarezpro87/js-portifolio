@@ -76,7 +76,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Desenvolverodr Java Júnior",
+      "name": "Desenvolvedor Java Júnior",
       "period": "2024 - até o momento",
       "description": "Desenvolvi habilidades práticas em diversas áreas. Trabalhei com contêineres, utilizando Docker e Docker Compose para criar e gerenciar ambientes eficientes e escaláveis. Na nuvem, fui responsável por criar e administrar máquinas virtuais na GovCloud, otimizando redes e implementando medidas de segurança. Meu conhecimento em Java e Spring Boot me permitiu contribuir para o desenvolvimento de aplicações backend robustas. Além disso, administrei servidores web, garantindo alta disponibilidade para aplicações online. Por fim, tive experiência prática com PostgreSQL, realizando tarefas de manutenção e otimização de bancos de dados."
     },
